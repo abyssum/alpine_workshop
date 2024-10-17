@@ -3,7 +3,7 @@
 Create a Docker image with python 3 and samtools installed.
 
 1. Case: Alpine base image
-2. 
+
 Issue the below commands to create the image from the Dockerfile
 
 ```
